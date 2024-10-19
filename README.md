@@ -1,4 +1,4 @@
-Öncelikle bu dosyaların izinsiz (ç)alınması yasaktır. Lütfen benden izin alıp kullanınız.
+Öncelikle bu dosyaların proje dersleri için izinsiz (ç)alınması ve kullanılması yasaktır.Lütfen kendi dersinizi geçmek için kendi çabanızı kullanın. Lütfen benden izin alıp kullanınız.
 
 Mühendislik Tasarımı dersim için yapmış oldupumm IoT temelli robot kol projesidir.
 
